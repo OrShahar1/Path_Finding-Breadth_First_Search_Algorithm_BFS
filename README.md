@@ -1,6 +1,6 @@
 # Path_Finding-Breadth_First_Search_Algorithm_BFS
 
-Path Finding With Breadth First Search:
+The project implements the breadth first search algorithm to traverse and find the shortest path out of a maze 2D
 
 ![](E8gB.gif)
 
